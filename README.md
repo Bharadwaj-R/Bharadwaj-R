@@ -1,0 +1,6 @@
+- Hello There! 👋🏻
+- I'm Bharadwaj Routhu 😁
+- ECE Undergrad @ IIIT Trichy 🙇🏻
+- Tech Enthusiast 🧑🏻‍💻
+- LinkedIn @Bharadwaj Routhu
+- Mail me @ routhubharadwaj5@gmail.com and 201206@iiitt.ac.in
