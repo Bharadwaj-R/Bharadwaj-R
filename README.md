@@ -1,6 +1,6 @@
 ### Hello There!  
 
-I am Bharadwaj Routhu, currently pursuing ECE Undergrad at Indian Institute of Information and Technology, Trichy. I am a tech enthusiast, and I really like discovering new technologies - mostly realted to ECE. Currently, I am doing IoT and Embedded based projects, and want to explore more about its applications in real life. My projects are mostly based on [Arduino](https://www.arduino.cc/) Uno, and am exploring WiFi enabled chips like NodeMCU (esp8266) to integrate with [Arduino IoT Cloud](https://create.arduino.cc/iot).  
+I am Bharadwaj Routhu, currently pursuing ECE Undergrad at Indian Institute of Information and Technology, Trichy. I am a tech enthusiast, and I really like discovering new technologies. Currently, I am doing IoT and Embedded based projects, and want to explore more about its applications in real life. My projects are mostly based on [Arduino](https://www.arduino.cc/) Uno, and am exploring WiFi enabled chips like NodeMCU (esp8266) to integrate with [Arduino IoT Cloud](https://create.arduino.cc/iot).  
 
 If you like my ideas, consider follwoing me for more IoT and Embedded based projects. 
 
