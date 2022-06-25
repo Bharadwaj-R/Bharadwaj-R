@@ -1,5 +1,7 @@
 ## Bharadwaj Routhu   
 
+![Image](https://avatars.githubusercontent.com/u/77038120?s=400&u=d70b48c6d758f0041cf7cd732040f85cfd4e37ea&v=4)
+
 ### Hello There!!  
 I am Bharadwaj Routhu, currently pursuing ECE Undergrad at Indian Institute of Information and Technology, Trichy. I am a tech enthusiast, and I really like discovering new technologies. Currently, I am doing IoT and Embedded based projects, and want to explore more about its applications in real life.  
 
