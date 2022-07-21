@@ -6,7 +6,7 @@ My projects are mostly based on dev kits like Arduino Uno, Arduino Nano, NodeMCU
 
 ***Check our my repositories here -> [Repositories](https://github.com/Bharadwaj-R?tab=repositories)***
 
-If you like my ideas, consider follwoing me for more IoT, Cloud Computing and Embedded based projects. 
+If you like my ideas, consider following me for more IoT, Cloud Computing and Embedded based projects. 
 
 You can contact me at  
 Social Media : [Facebook](https://www.facebook.com/routhu.bharadwaj) | [Instagram](https://www.instagram.com/bharadwaj_routhu) | [LinkedIn](https://www.linkedin.com/in/bharadwaj-routhu-8239ba201)  
