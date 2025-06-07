@@ -10,4 +10,4 @@ If you like my ideas, consider following me for more IoT, Cloud Computing and Em
 
 You can contact me at  
 Social Media : [Facebook](https://www.facebook.com/routhu.bharadwaj) | [Instagram](https://www.instagram.com/bharadwaj_routhu) | [LinkedIn](https://www.linkedin.com/in/bharadwaj-routhu-8239ba201)  
-Mail : routhubharadwaj5@gmail.com | bharadwajrouthu@icloud.com | 201206@iiitt.ac.in
+Mail : routhubharadwaj5@gmail.com | rbharadwaj@iisc.ac.in
